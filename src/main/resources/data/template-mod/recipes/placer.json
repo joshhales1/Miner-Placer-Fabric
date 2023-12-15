@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CPC",
+    "CRC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cobblestone"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "P": {
+	"item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "item": "template-mod:placer",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CIC",
+    "CRC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cobblestone"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+	"item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "template-mod:miner",
+    "count": 1
+  }
+}
